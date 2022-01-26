@@ -1,0 +1,7 @@
+[submodule "marbastlib"]
+	path = marbastlib
+	url = https://github.com/ebastler/marbastlib
+	branch = untested
+[submodule "MX_Alps_Hybrid"]
+	path = MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid
