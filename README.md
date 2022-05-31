@@ -1,2 +1,2 @@
 # pcb-guide
- PCB Guide
+ PCB Guide. See the wiki.
