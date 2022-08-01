@@ -1,2 +1,3 @@
-# pcb-guide
- PCB Guide. See the wiki.
+
+# THERE IS NOW A WEBSITE
+ https://guide.zykrah.me
